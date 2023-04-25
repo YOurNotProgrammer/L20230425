@@ -13,5 +13,7 @@ UCLASS()
 class L20230425_API AMyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+public:
+	AMyGameModeBase();
 	
 };
